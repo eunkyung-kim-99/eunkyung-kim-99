@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @eunkyung-kim-99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=FFF&color=&height=330&section=header&text=Welcome!&animation=scaleIn&fontSize=90&fontAlignY=44)
 
-<!---
-eunkyung-kim-99/eunkyung-kim-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👩🏻 Introduction
+안녕하세요!!
+Backend 기술을 공부하고 있습니다.
+
+### 🔧 Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunkyung-kim-99&show_icons=true&theme=radical)
